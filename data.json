@@ -1,0 +1,378 @@
+   {
+  "itinerari": [
+    {
+      "id": "Vittiorio De Sica luoghi popolari",
+      "nome": "Roma la strada come casa",
+      "sottotitolo": "la nobiltà di chi affronta la povertà con il sorriso",
+      "personaggio": {
+        "nome": "Vittorio De Sica",
+        "anni": "1901-1974",
+        "professione": "Regista e attore ",
+        "nazionalita": "Italiana",
+        "biografia_breve": "Vittorio De Sica (Sora, 1901 – Neuilly-sur-Seine, 1974) è stato un influente regista e attore italiano, padre del neorealismo",
+        "immagine": ".jpg",
+        "opere_correlate": [
+          "ladri di biciclette(1948)",
+          "Stazione Termini(1953)",
+          "la ciociara(1960)"
+        ]
+      },
+      "tema": " luoghi popolari di Roma",
+      "categoria": "Cinema e Cultura popolare",
+      "durata_totale_ore": 10,
+      "difficolta": " facile",
+      "immagine_copertina": "ladri di biciclette.jpg",
+      "distanza_totale_km": 11,
+      "periodo_consigliato": "Primavera(temperature miti)",
+      "stagione_migliore": [
+        "marzo",
+        "aprile",
+        "maggio"
+      ],
+      "descrizione": "Un percorso che segue le orme di Vittorio De Sica.Un viaggio nel tempo tra povertà e splendore,con l'obiettivo principale di far conoscere al turista non solo le bellezze artistiche di Roma ma anche  chi  c'è   intorno alle meraviglie monumentali di roma.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ",
+      "note_logistiche": "",
+      "accessibilità": "",
+      "costo_stimato": "",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "Stazione_di_Roma_Termini",
+          "orario_consigliato": "08:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 45,
+          "coordinate": [
+            41.9008,
+            12.5019
+          ],
+          "nome": "Stazione di Roma Termini",
+          "descrizione_breve": "La stazione di Roma Termini è il principale snodo ferroviario di Roma e d'Italia, nonché la quinta in Europa per traffico. Situata nel centro storico, è un enorme hub intermodale che collega treni ad alta velocità.",
+          "indicazioni_arrivo": "",
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Roma Forestiera ",
+              "brano_completo": "Roma Forestiera - Gabriella Ferri",
+              "compositore": "Armando libianchi e Lugi Granozio",
+              "durata_sec": 329,
+              "tonalita": "",
+              "organico": "",
+              "anno_composizione": 1916,
+              "descrizione_musicale": "Roma Forestiera è una celebre canzone romana del 1947, scritta da Armando Libianchi e Luigi Granozio, che racconta con nostalgia il cambiamento della città nel dopoguerra.",
+              "spotify_url": "https://open.spotify.com/track/exampl",
+              "youtube_url": "https://www.youtube.com/results?search_query=roma+forestiera",
+              "note_ascolto": ""
+            },
+            "letteratura": {
+              "citazione": "Homo homini lupus.",
+              "autore": "Plauto",
+              "opera": "Asinaria",
+              "anno": " tra il 211 a.C. e il 206 a.C. ",
+              "contesto": "Descrive una visione pessimistica dell'umanità, in cui l'egoismo, la competizione e l'istinto di sopraffazione portano gli esseri umani a essere nemici tra loro."
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": "Quest'area è nota per essere intensamente illuminata. un punto di riferimento luminoso per la zona.",
+              "suoni_ambiente": [
+                "Trasporti",
+                "Annunci ferroviari",
+                "Movida ",
+                "Suoni di lavori in corso"
+              ],
+              "temperatura_stimata": "20-22°C",
+              "affollamento": "elevato",
+              "emozione_target": "Caos , visione cruda della realtà"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "",
+              "architetti": [
+                "Bartolomeo Ammannati",
+                "Giacomo Barozzi da Vignola"
+              ],
+              "anno_costruzione": "1874",
+              "committente": "Papa Pio IX ",
+              "descrizione": " panoramica che unisce modernità e resti antichi oggi La Stazione di Roma Termini è un capolavoro del Razionalismo italiano del dopoguerra, caratterizzata da una facciata sinuosa e una grande vetrata"
+            }
+          },
+          "storia": "La prima stazione ferroviaria collocata a Termini, alla fine del 1862, serviva la linea Roma-Ceprano, ma più che una stazione era un baraccone di legno. Il primo fabbricato che andò a soppiantare la precaria struttura lignea fu realizzato nel 1867 su progetto dell’architetto Salvatore Bianchi, con la benedizione del Papa Pio IX.Con il passare del tempo si rivelava però insufficiente a soddisfare le esigenze dell’innovazione impiantistica e del crescente numero di viaggiatori. La necessità di un cambiamento determinò, alla fine degli anni ’30, la costruzione ex novo di un complesso di edifici .Negli anni si sono poi susseguiti molti adeguamenti tecnici e ammodernamenti parziali con l’inserimento di nuovi servizi, fino alla vasta opera di riqualificazione avviata nel 1998 ed inaugurata in occasione del Giubileo nel 2000. ",
+          "curiosita": "Il nome 'Roma Termini' non indica la fine dei viaggi, ma deriva dalle antiche Terme di Diocleziano, situate di fronte alla stazione.Un film co-prodotto da De sica nel 1953 si intitola proprio 'STAZIONE ROMA TERMINI'.",
+          "metadata": {
+            "accessibilita": "ingressso gratuito",
+            "orari_standard": "24/7",
+            "servizi": [
+              "toilette",
+              "bookshop",
+              "caffetteria",
+              "metro",
+              "taxi"
+            ]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "piazza_vittorio_emanuele_II",
+          "orario_consigliato": "10:30",
+          "momento_giornata": "mezzogiorno",
+          "durata_visita_min": 60,
+          "coordinate": [
+            41.895161,
+            12.504761
+          ],
+          "nome": "piazza vittorio emanuele II",
+          "descrizione_breve": " è la più grande piazza di Roma, situata nel rione Esquilino. Costruita alla fine del XIX secolo, presenta un caratteristico stile sabaudo con portici e un vasto giardino centrale, noto come Giardini Nicola Calipari, che ospita le rovine di un ninfeo romano e la misteriosa Porta Magica. ",
+          "indicazioni_arrivo": "dai principali luoghi di Roma con i mezzi pubblici. Queste linee hanno fermate in corrispondenza di Piazza .",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "8 min",
+            "metro": "2 min",
+            "distanza_km": "0.8"
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Ma il cielo è sempre più blu",
+              "brano_completo": "Ma il cielo è sempre più blu - Rino Gaetano",
+              "compositore": "Rino Gaetano",
+              "durata_sec": 432,
+              "tonalita": "",
+              "descrizione_musicale": " è un capolavoro ironico e graffiante che ritrae le contraddizioni dell'Italia anni '70 attraverso un elenco frenetico di immagini contrapposte",
+              "strumenti_protagonisti": [],
+              "carattere": "",
+              "spotify_url": "https://open.spotify.com/track/example",
+              "youtube_url": "https://www.youtube.com/results?search_query=il+cielo+%C3%A8+sempre+pi%C3%B9+blu",
+              "note_ascolto": ""
+            },
+            "letteratura": {
+              "citazione": "piazza Vittorio ,con i suo portici,è un immenso ventre dove Roma si mescola e si confonde.Qui il sole non illumina solol e pietre,ma la vita nuda,quella che non ha bisogno di copioni per essere vera.",
+              "autore": "Pier Paolo  Pasolini",
+              "opera": "Ragazzi di vita",
+              "anno": 1955,
+              "contesto": "ambientato nella Roma del secondo dopoguerra (1946-1953), descrivendo la vita degradata del sottoproletariato nelle borgate periferiche."
+            },
+            "atmosfera": {
+              "momento": " mezzogiorno",
+              "luce": "La luce di tarda mattinata su Piazza Vittorio Emanuele II  si caratterizza per una transizione decisa tra l'ombra e il soleggiamento, tipica dell'architettura umbertina che la circonda.",
+              "suoni_ambiente": [
+                "Traffico Intenso",
+                "Suoni del Mercato e del Commercio",
+                "Attività Musicali ed Eventi"
+              ],
+              "temperatura_stimata": "20-23°C",
+              "affollamento": "generalmente alti",
+              "consiglio_fotografico": ".",
+              "emozione_target": "Energia, vitalità,contrasti sociali"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "neo classicismo con richiami al rinascimento",
+              "scultore": "Gaetano Koch",
+              "anno_costruzione": "1887",
+              "committente": "Comune di Roma",
+              "materiali": "",
+              "altezza_m": "",
+              "descrizione": "l'architettura,severaa e simmetrica,fonde il rigore del Neoclassicismo piemontese con la nobiltà del Rinascimento italiano."
+            }
+          },
+          "storia": " costruita tra il 1882 e il 1887 nel rione Esquilino. Emblema della Roma umbertina, fu realizzata dal Comune su progetto di Gaetano Koch, caratterizzandosi per i suoi caratteristici portici e per il giardino centrale (inaugurato nel 1888) che ospita la famosa 'Porta Magica'. ",
+          "curiosita": "La chiesa 'fuori posto': La chiesa di Sant'Eusebio (IV secolo) è l'unico edificio che interrompe la simmetria geometrica dei portici, essendo preesistente alla piazza",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": [
+              "bar circostanti",
+              "metro nelle vicinanze",
+              "Parcheggio e Viabilità",
+              "Mezzi pubblici con deviazioni apposite",
+              "Ristoro e Street Food",
+              "Servizi Finanziari"
+            ]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "Porta Portese",
+          "orario_consigliato": "14:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 90,
+          "coordinate": [
+            41.8762,
+            12.4764
+          ],
+          "nome": "Porta Portese",
+          "descrizione_breve": "Il mercato di Porta Portese è il più grande e famoso mercato delle pulci di Roma,che si tiene ogni domenica mattina nel quartiere Trastevere.",
+          "indicazioni_arrivo": " ",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "50 min",
+            "distanza_km": 3.7
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": ".Porta portese-Clauduio Baglioni",
+              "brano_completo": "Porta Portese",
+              "compositore": " Claudio Baglioni e Antonio Coggio.",
+              "durata_sec": "5.12",
+              "tonalita": "",
+              "descrizione_musicale": "La canzone “Porta Portese” di Claudio Baglioni, pubblicata nel 1972 nell’album Questo piccolo grande amore, è un brano vivace e raccontato in tono quasi da filastrocca. Descrive un giro nel celebre mercato romano di Porta Portese, dove il protagonista osserva la folla, le bancarelle, e la varietà caotica e affascinante della vita popolare di Roma.",
+              "citazioni_famose": "",
+              "carattere": "",
+              "spotify_url": "",
+              "youtube_url": "https://www.youtube.com/watch?v=MnRB6-qSOtY",
+              "note_ascolto": "."
+            },
+            "letteratura": {
+              "citazione": ".",
+              "autore": "",
+              "opera": "",
+              "anno": "",
+              "contesto": ""
+            },
+            "cinema": {
+              "film": "Ladri di biciclette",
+              "regista": "Vittorio De Sica",
+              "anno": 1948,
+              "scena": "Antonio e Bruno cercano di ritrovare la bicicletta rubata",
+              "descrizione": "una delle scene più memorabili del cinema italiano,Porta portese è quel temporale improvviso."
+            },
+            "atmosfera": {
+              "momento": "pomeriggio",
+              "luce": "luminosa ma con ombre marcate tra le bancarelle",
+              "suoni_ambiente": [
+                "I 'Banditori' che urlano le offerte",
+                "Il 'Fruuscio' della Ricerca",
+                ". Il Mix Multiculturale"
+              ],
+              "temperatura_stimata": "25-28°C (caldo pieno)",
+              "affollamento": "Occasioni dell'ultimo minuto: Sebbene la scelta sia ormai ridotta al minimo, le 15:00 sono l'orario dei prezzi stracciati. I pochi venditori rimasti spesso svendono la merce rimanente a pochi euro pur di non riportarla indietro",
+              "consiglio_fotografico": "",
+              "emozione_target": "La Malinconia del Fine Festa."
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco romano",
+              "architetto": "Vincenzo Seregni",
+              "scultori": [],
+              "anno_costruzione": "1644.",
+              "committente": "Papa Innocenzo X",
+              "dimensioni": "",
+              "acqua_fonte": "",
+              "descrizione": "Artisticamente, Porta Portese è meno raffinata di Porta del Popolo, ma molto più 'muscolare'. Rappresentava il biglietto da visita per chi risaliva il Tevere dal mare: doveva mostrare una Roma potente, ordinata e papale, contrapposta al caos del porto fluviale e dei mercati che, ironicamente, oggi ne costituiscono l'anima principale."
+            }
+          },
+          "storia": "Nel XVII secolo, Papa Innocenzo X  decise di ristrutturare le mura del Gianicolo. Invece di restaurare la vecchia porta romana, decise di abbatterla e costruirne una nuova in una posizione più arretrata, più vicina al centro di Trastevere.",
+          "curiosita": "Non era solo difensivo, ma commerciale. Da qui passava la Via Portuense, la strada vitale che collegava Roma al porto di Fiumicino e a quello fluviale di Ripa Grande, dove arrivavano le merci destinate alla città.",
+          "leggende": [],
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": " 07:00–14:00.",
+            "servizi": [
+              "bar circostanti",
+              "metro nelle vicinanze",
+              "Parcheggio e Viabilità",
+              "Mezzi pubblici con deviazioni apposite",
+              "Ristoro e Street Food",
+              "Servizi Finanziari"
+            ],
+            "warning": "Attenzione ai borseggiatori in zona affollata"
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "Ponte_Duca_d'Aosta",
+          "orario_consigliato": "18:00",
+          "momento_giornata": "tramonto",
+          "durata_visita_min": 45,
+          "coordinate": [
+            41.9312504,
+            12.4604534
+          ],
+          "nome": "Ponte Duca d'Aosta",
+          "descrizione_breve": "Struttura: Si tratta di un ponte a arcata unica in cemento armato, lungo circa 220 metri e largo 30 metri. La scelta della campata singola non fu solo estetica, ma serviva a evitare che i piloni in alveo ostacolassero il deflusso del Tevere durante le piene.I quattro grandi blocchi (o piloni) alle estremità del Ponte Duca d'Aosta sono proprio gli elementi che ospitano gli imponenti rilievi scultorei dedicati ai combattenti e ai caduti della Grande Guerra",
+          "indicazioni_arrivo": ".",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "1.30min",
+            "metro_piedi": "47 min",
+            "distanza_km": 6
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Roma capoccia-Antonello Venditti",
+              "brano_completo": "",
+              "compositore": "",
+              "durata_sec": 440,
+              "tonalita": "",
+              "descrizione_musicale": "",
+              "carattere": "",
+              "citazioni_famose": "",
+              "spotify_url": "",
+              "youtube_url": "https://www.youtube.com/results?search_query=roma+capoccia",
+              "note_ascolto": "Ascoltare guardando il tramonto. Il silenzio ti permette di immedesimarti in Antonio Ricci sollevato dal ritrovamento del figlio."
+            },
+            "letteratura": {
+              "citazione": "Nulla è più amaro che il non essere più bambino,quando ancora lo si è.",
+              "autore": "Umberto Saba",
+              "opera": "Ernesto",
+              "anno": "1953",
+              "contesto": "."
+            },
+            "atmosfera": {
+              "momento": "tramonto",
+              "luce": "dorata, arancione, poi violacea",
+              "suoni_ambiente": [
+                "canto degli uccelli al crepuscolo",
+                "campane di chiese in lontananza",
+                "silenzio contemplativo"
+              ],
+              "temperatura_stimata": "18-22°C (temperatura ideale)",
+              "affollamento": "basso (area meno turistica)",
+              "vista_panoramica": "Alzando lo sguardo sopra il Foro Italico, domina la collina di Monte Mario, il punto più alto di Roma.Guardando dritto davanti a te verso la sponda destra del Tevere Il Complesso Sportivo: Ai lati si aprono le strutture marmoree del Foro, con lo Stadio dei Marmi e lo Stadio Olimpico che si intravedono tra i pini marittimi",
+              "consiglio_fotografico": ".",
+              "emozione_target": "Nostalgia, pace, contemplazione"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Razionalismo Italiano",
+              "architetto": "Vincenzo Fasolo",
+              "anno_costruzione": "1936",
+              "committente": "Benito Mussolini",
+              "descrizione": "è un'opera che comunica fermezza e monumentalità, dove la bellezza è data dalla simmetria perfetta e dal contrasto tra il bianco della pietra e il verde dell'ambiente circostante",
+              "artisti_ospitati": []
+            }
+          },
+          "storia": "Il cantiere fu aperto nel 1936, in un periodo di grande espansione urbanistica per Roma, finalizzata alla creazione del monumentale complesso sportivo del Foro Italico (all'epoca chiamato Foro Mussolini).",
+          "curiosita": "Fu inaugurato ufficialmente il 26 marzo 1939, pochi mesi prima dello scoppio della Seconda Guerra Mondiale.",
+          "connessione_De Sica": " Il ponte fa da sfondo a una delle sequenze più drammatiche e famose del film. Il protagonista, Antonio Ricci, ormai disperato perché non riesce a ritrovare la sua bicicletta (fondamentale per il suo lavoro), si ritrova proprio nei pressi del ponte durante una partita di calcio allo Stadio",
+          "metadata": {
+            "accessibilita": "ingresso gratuito",
+            "orari_standard": "",
+            "orari_speciali_tramonto": "18:00-20:00",
+            "servizi": [
+              "caffetteria",
+              "bookshop",
+              "mostre temporanee"
+            ]
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "esempio_encoded_string",
+        "colore_percorso": "#e74c3c",
+        "stile_linea": "dashed"
+      },
+      "consigli_pratici": [
+        "Portare bottiglia d'acqua riutilizzabile (fontanelle romane lungo il percorso)",
+        "Scarpe comode obbligatorie (6.5 km a piedi)",
+        "Cappello e crema solare per mezzogiorno",
+        "Cuffie di buona qualità per ascoltare la musica",
+        "Prenotare in anticipo Villa Giulia e Villa Medici",
+        "Considerare pausa pranzo dopo Tritone (molti ristoranti in zona)"
+      ],
+      "migliore_periodo_anno": "Marzo-Maggio o Settembre-Ottobre (luce migliore, temperature miti)",
+      "sconsigliato": [
+        "Piena estate (troppo caldo a mezzogiorno)",
+        "Gennaio-Febbraio (alba troppo tarda)"
+      ],
+      "cosa_portare": [
+        "Smartphone con app mappe",
+        "Cuffie/auricolari",
+        "Bottiglia acqua",
+        "Cappello",
+        "Crema solare",
+        "Snack energetici",
+        "Batteria portatile"
+      ]
+    }
+  ]
+}
